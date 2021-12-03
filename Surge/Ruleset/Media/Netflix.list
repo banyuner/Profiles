@@ -19,3 +19,4 @@ IP-CIDR,198.45.48.0/20,no-resolve
 
 # 新增 20211022
 DOMAIN-SUFFIX,us-west-2.amazonaws.com 
+DOMAIN-SUFFIX,fast.com
